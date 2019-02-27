@@ -17,5 +17,5 @@ Gómez Cruz Rafael
 Guzmán Ruíz Aisha Simone
 |
 Robles Villegas Gael Issay
-|
+
 **Grupo: 424**
