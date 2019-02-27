@@ -9,13 +9,13 @@
 [Toxicidad](https://github.com/PFLC/g424markdown-mesa-5-los-jakepaulers/blob/master/toxicidad.md)
 
 **Integrantes:**
-
+|
 Camacho Alcaraz Javier
-
+|
 Gómez Cruz Rafael
-
+|
 Guzmán Ruíz Aisha Simone
-
+|
 Robles Villegas Gael Issay
-
+|
 **Grupo: 424**
