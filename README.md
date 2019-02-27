@@ -1,4 +1,4 @@
-(insertar lo de cooltext.com aqui)
+![](https://images.cooltext.com/5260994.png)
 
 [¿Qué es?](https://github.com/PFLC/g424markdown-mesa-5-los-jakepaulers/blob/master/Que%20es.md)
 
